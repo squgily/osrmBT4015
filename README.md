@@ -33,3 +33,5 @@ Cell capacity extracted from Singapore's 2025 Master Plan:
 https://data.gov.sg/datasets/d_a8c3546b26712e35021f3a681d0353ae/view
 
 All others were extracted and processed from the OneMap API (separate repo).
+
+Left the impedance function calculation in just in case. (not needed for our project) 
